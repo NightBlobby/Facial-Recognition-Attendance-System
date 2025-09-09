@@ -80,8 +80,7 @@ python src/main.py --mode 1
 ```
 facial-recognition-attendance/
 ├── src/
-│   ├── face_attendance.py   # Core logic
-│   ├── main.py              # CLI entry point
+│   ├── cv.py   # Core logic
 ├── data/
 │   └── students_example.xlsx # Example Excel file
 ├── docs/
